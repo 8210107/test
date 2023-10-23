@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-qqlcoisa
-ES2
+sou o qqlcoisa2
 =======
 >>>>>>> parent of fc12c3e (biscoitos)
