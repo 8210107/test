@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 qqlcoisa
 ES2
+=======
+>>>>>>> parent of fc12c3e (biscoitos)
